@@ -11,7 +11,8 @@ import pages.HomePage;
 import pages.LoginPage;
 
 public class CartPageTest extends BaseTest {
-	
+	//Validate cart page functionality
+	//
 	
 	HomePage homePage;
 	LoginPage loginPage;
